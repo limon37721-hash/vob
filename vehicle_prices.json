@@ -1,292 +1,290 @@
-{
-  "vehicle": [
-    {
-      "id": 4026,
-      "name": "Dinghy",
-      "section": "boat",
-      "price": 430000
-    },
-    {
-      "id": 4025,
-      "name": "Runabout",
-      "section": "boat",
-      "price": 360000
-    },
-    {
-      "id": 4024,
-      "name": "Jetski",
-      "section": "boat",
-      "price": 260000
-    },
-    {
-      "id": 4125,
-      "name": "City Bus",
-      "section": "car",
-      "price": 890000
-    },
-    {
-      "id": 4121,
-      "name": "Abraham",
-      "section": "car",
-      "price": 2450000
-    },
-    {
-      "id": 4076,
-      "name": "Matvee",
-      "section": "car",
-      "price": 1280000
-    },
-    {
-      "id": 4075,
-      "name": "Matvee",
-      "section": "car",
-      "price": 1240000
-    },
-    {
-      "id": 4072,
-      "name": "Kodiak",
-      "section": "car",
-      "price": 1720000
-    },
-    {
-      "id": 4071,
-      "name": "Kodiak",
-      "section": "car",
-      "price": 1650000
-    },
-    {
-      "id": 4036,
-      "name": "Station Wagon",
-      "section": "car",
-      "price": 180000
-    },
-    {
-      "id": 4035,
-      "name": "Firetruck",
-      "section": "car",
-      "price": 920000
-    },
-    {
-      "id": 4034,
-      "name": "Ambulance",
-      "section": "car",
-      "price": 790000
-    },
-    {
-      "id": 4033,
-      "name": "Firetruck",
-      "section": "car",
-      "price": 880000
-    },
-    {
-      "id": 4030,
-      "name": "Upgraded Offroader",
-      "section": "car",
-      "price": 760000
-    },
-    {
-      "id": 4029,
-      "name": "Upgraded Yukon",
-      "section": "car",
-      "price": 820000
-    },
-    {
-      "id": 4028,
-      "name": "Indian",
-      "section": "car",
-      "price": 190000
-    },
-    {
-      "id": 4027,
-      "name": "Upgraded Knight",
-      "section": "car",
-      "price": 1180000
-    },
-    {
-      "id": 4023,
-      "name": "Station Wagon",
-      "section": "car",
-      "price": 240000
-    },
-    {
-      "id": 4022,
-      "name": "Unmarked Police Yukon",
-      "section": "car",
-      "price": 720000
-    },
-    {
-      "id": 4019,
-      "name": "Wagon",
-      "section": "car",
-      "price": 320000
-    },
-    {
-      "id": 4018,
-      "name": "Yukon",
-      "section": "car",
-      "price": 470000
-    },
-    {
-      "id": 4017,
-      "name": "Van",
-      "section": "car",
-      "price": 540000
-    },
-    {
-      "id": 4016,
-      "name": "Arcadia",
-      "section": "car",
-      "price": 650000
-    },
-    {
-      "id": 4015,
-      "name": "Station Wagon",
-      "section": "car",
-      "price": 210000
-    },
-    {
-      "id": 4014,
-      "name": "Royal",
-      "section": "car",
-      "price": 840000
-    },
-    {
-      "id": 4013,
-      "name": "Quad",
-      "section": "car",
-      "price": 220000
-    },
-    {
-      "id": 4012,
-      "name": "Bicycle",
-      "section": "car",
-      "price": 125000
-    },
-    {
-      "id": 4011,
-      "name": "Knight",
-      "section": "car",
-      "price": 980000
-    },
-    {
-      "id": 4009,
-      "name": "Merc",
-      "section": "car",
-      "price": 720000
-    },
-    {
-      "id": 4008,
-      "name": "Flux",
-      "section": "car",
-      "price": 310000
-    },
-    {
-      "id": 4007,
-      "name": "Roadster",
-      "section": "car",
-      "price": 680000
-    },
-    {
-      "id": 4006,
-      "name": "Baja",
-      "section": "car",
-      "price": 600000
-    },
-    {
-      "id": 4005,
-      "name": "Sportscar",
-      "section": "car",
-      "price": 560000
-    },
-    {
-      "id": 4004,
-      "name": "Offroader",
-      "section": "car",
-      "price": 430000
-    },
-    {
-      "id": 4003,
-      "name": "Truck",
-      "section": "car",
-      "price": 520000
-    },
-    {
-      "id": 4002,
-      "name": "Hatchback",
-      "section": "car",
-      "price": 240000
-    },
-    {
-      "id": 4001,
-      "name": "Interceptor",
-      "section": "car",
-      "price": 380000
-    },
-    {
-      "id": 4000,
-      "name": "Police Interceptor",
-      "section": "car",
-      "price": 420000
-    },
-    {
-      "id": 4129,
-      "name": "Watchsun",
-      "section": "plane",
-      "price": 1050000
-    },
-    {
-      "id": 4128,
-      "name": "Hummingbird",
-      "section": "plane",
-      "price": 1850000
-    },
-    {
-      "id": 4127,
-      "name": "Sandpiper",
-      "section": "plane",
-      "price": 980000
-    },
-    {
-      "id": 4123,
-      "name": "Fighter Jet",
-      "section": "plane",
-      "price": 3400000
-    },
-    {
-      "id": 4037,
-      "name": "Rainbow Hatchback",
-      "section": "plane",
-      "price": 900000
-    },
-    {
-      "id": 4032,
-      "name": "Chopper",
-      "section": "plane",
-      "price": 1520000
-    },
-    {
-      "id": 4031,
-      "name": "Chopper",
-      "section": "plane",
-      "price": 1480000
-    },
-    {
-      "id": 4010,
-      "name": "Navajo",
-      "section": "plane",
-      "price": 1250000
-    },
-    {
-      "id": 4126,
-      "name": "Cargo Train",
-      "section": "train",
-      "price": 3350000
-    },
-    {
-      "id": 4124,
-      "name": "Cargo Train",
-      "section": "train",
-      "price": 3200000
-    }
-  ]
-}
+[
+  {
+    "id": 4026,
+    "name": "Dinghy",
+    "section": "boat",
+    "price": 430000
+  },
+  {
+    "id": 4025,
+    "name": "Runabout",
+    "section": "boat",
+    "price": 360000
+  },
+  {
+    "id": 4024,
+    "name": "Jetski",
+    "section": "boat",
+    "price": 260000
+  },
+  {
+    "id": 4125,
+    "name": "City Bus",
+    "section": "car",
+    "price": 890000
+  },
+  {
+    "id": 4121,
+    "name": "Abraham",
+    "section": "car",
+    "price": 2450000
+  },
+  {
+    "id": 4076,
+    "name": "Matvee",
+    "section": "car",
+    "price": 1280000
+  },
+  {
+    "id": 4075,
+    "name": "Matvee",
+    "section": "car",
+    "price": 1240000
+  },
+  {
+    "id": 4072,
+    "name": "Kodiak",
+    "section": "car",
+    "price": 1720000
+  },
+  {
+    "id": 4071,
+    "name": "Kodiak",
+    "section": "car",
+    "price": 1650000
+  },
+  {
+    "id": 4036,
+    "name": "Station Wagon",
+    "section": "car",
+    "price": 180000
+  },
+  {
+    "id": 4035,
+    "name": "Firetruck",
+    "section": "car",
+    "price": 920000
+  },
+  {
+    "id": 4034,
+    "name": "Ambulance",
+    "section": "car",
+    "price": 790000
+  },
+  {
+    "id": 4033,
+    "name": "Firetruck",
+    "section": "car",
+    "price": 880000
+  },
+  {
+    "id": 4030,
+    "name": "Upgraded Offroader",
+    "section": "car",
+    "price": 760000
+  },
+  {
+    "id": 4029,
+    "name": "Upgraded Yukon",
+    "section": "car",
+    "price": 820000
+  },
+  {
+    "id": 4028,
+    "name": "Indian",
+    "section": "car",
+    "price": 190000
+  },
+  {
+    "id": 4027,
+    "name": "Upgraded Knight",
+    "section": "car",
+    "price": 1180000
+  },
+  {
+    "id": 4023,
+    "name": "Station Wagon",
+    "section": "car",
+    "price": 240000
+  },
+  {
+    "id": 4022,
+    "name": "Unmarked Police Yukon",
+    "section": "car",
+    "price": 720000
+  },
+  {
+    "id": 4019,
+    "name": "Wagon",
+    "section": "car",
+    "price": 320000
+  },
+  {
+    "id": 4018,
+    "name": "Yukon",
+    "section": "car",
+    "price": 470000
+  },
+  {
+    "id": 4017,
+    "name": "Van",
+    "section": "car",
+    "price": 540000
+  },
+  {
+    "id": 4016,
+    "name": "Arcadia",
+    "section": "car",
+    "price": 650000
+  },
+  {
+    "id": 4015,
+    "name": "Station Wagon",
+    "section": "car",
+    "price": 210000
+  },
+  {
+    "id": 4014,
+    "name": "Royal",
+    "section": "car",
+    "price": 840000
+  },
+  {
+    "id": 4013,
+    "name": "Quad",
+    "section": "car",
+    "price": 220000
+  },
+  {
+    "id": 4012,
+    "name": "Bicycle",
+    "section": "car",
+    "price": 125000
+  },
+  {
+    "id": 4011,
+    "name": "Knight",
+    "section": "car",
+    "price": 980000
+  },
+  {
+    "id": 4009,
+    "name": "Merc",
+    "section": "car",
+    "price": 720000
+  },
+  {
+    "id": 4008,
+    "name": "Flux",
+    "section": "car",
+    "price": 310000
+  },
+  {
+    "id": 4007,
+    "name": "Roadster",
+    "section": "car",
+    "price": 680000
+  },
+  {
+    "id": 4006,
+    "name": "Baja",
+    "section": "car",
+    "price": 600000
+  },
+  {
+    "id": 4005,
+    "name": "Sportscar",
+    "section": "car",
+    "price": 560000
+  },
+  {
+    "id": 4004,
+    "name": "Offroader",
+    "section": "car",
+    "price": 430000
+  },
+  {
+    "id": 4003,
+    "name": "Truck",
+    "section": "car",
+    "price": 520000
+  },
+  {
+    "id": 4002,
+    "name": "Hatchback",
+    "section": "car",
+    "price": 240000
+  },
+  {
+    "id": 4001,
+    "name": "Interceptor",
+    "section": "car",
+    "price": 380000
+  },
+  {
+    "id": 4000,
+    "name": "Police Interceptor",
+    "section": "car",
+    "price": 420000
+  },
+  {
+    "id": 4129,
+    "name": "Watchsun",
+    "section": "plane",
+    "price": 1050000
+  },
+  {
+    "id": 4128,
+    "name": "Hummingbird",
+    "section": "plane",
+    "price": 1850000
+  },
+  {
+    "id": 4127,
+    "name": "Sandpiper",
+    "section": "plane",
+    "price": 980000
+  },
+  {
+    "id": 4123,
+    "name": "Fighter Jet",
+    "section": "plane",
+    "price": 3400000
+  },
+  {
+    "id": 4037,
+    "name": "Rainbow Hatchback",
+    "section": "plane",
+    "price": 900000
+  },
+  {
+    "id": 4032,
+    "name": "Chopper",
+    "section": "plane",
+    "price": 1520000
+  },
+  {
+    "id": 4031,
+    "name": "Chopper",
+    "section": "plane",
+    "price": 1480000
+  },
+  {
+    "id": 4010,
+    "name": "Navajo",
+    "section": "plane",
+    "price": 1250000
+  },
+  {
+    "id": 4126,
+    "name": "Cargo Train",
+    "section": "train",
+    "price": 3350000
+  },
+  {
+    "id": 4124,
+    "name": "Cargo Train",
+    "section": "train",
+    "price": 3200000
+  }
+]
